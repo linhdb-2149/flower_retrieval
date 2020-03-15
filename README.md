@@ -1,2 +1,2 @@
-# flower_retrieval
-Flower Retrival with faiss
+# Flower Image Retrieval
+Image Retrival with faiss
